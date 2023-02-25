@@ -1,1 +1,3 @@
-I am great
+# Scripting
+
+By: Cyrus Muthui
